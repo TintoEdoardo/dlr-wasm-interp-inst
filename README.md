@@ -6,7 +6,7 @@ The compilation toolchain targets the Digilent Cora Z7 (dual-core) board which h
 A separate guide showing how to use the library from within a Ravenscar-compliant Ada application, running on the selected board (*without any operating system*). 
 
 We are using the Wasm interpreter version 0.1.0.
-The submodule is already pinned to the commit associated with the release tag
+The submodule is already pinned to the commit associated with the release tag. 
 
 ---
 
